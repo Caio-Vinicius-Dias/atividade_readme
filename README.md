@@ -1,2 +1,2 @@
 # atividade_readme
-atividade do classroom - Caio Vinicius
+Este repositório foi criado para a atividade do curso
